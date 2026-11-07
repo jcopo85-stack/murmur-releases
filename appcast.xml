@@ -3,6 +3,22 @@
     <channel>
         <title>Murmur</title>
         <item>
+            <title>1.9</title>
+            <pubDate>Fri, 06 Nov 2026 19:08:48 -0500</pubDate>
+            <link>https://github.com/jcopo85-stack/murmur-releases</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[**Murmur 1.9**
+
+- Voice commands: say "nueva línea" or "new line", "presiona enter", "borra eso", or punctuation like "coma" while you dictate, in Spanish and English. You choose the trigger words, and spoken punctuation can be turned off.
+- Your own commands: say a phrase of your choice at the end of a dictation to press a shortcut, open an app or website, or rewrite what you said.
+- Fixed a freeze that could happen when a microphone stopped responding.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/jcopo85-stack/murmur-releases/main/downloads/Murmur-1.9.dmg" length="3412636" type="application/octet-stream" sparkle:edSignature="ldzc9kcG59K3VQDUTxpBH2g7RKraXEb2Q5jVr51bTjxf6E3a3joSS2OCaMqdPiEGpF8rdV4Gfy3qPfa8KFyACg=="/>
+        </item>
+        <item>
             <title>1.8</title>
             <pubDate>Sat, 24 Oct 2026 22:47:37 -0400</pubDate>
             <link>https://github.com/jcopo85-stack/murmur-releases</link>
